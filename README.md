@@ -1,4 +1,7 @@
-# cloudfoundry_cli
+# CloudFoundry Cli Cookbook
 
-TODO: Enter the cookbook description here.
+Following the directions from 
+https://docs.cloudfoundry.org/cf-cli/install-go-cli.html#pkg-linux
+
+Install the Cloud Foundry CLI 
 
